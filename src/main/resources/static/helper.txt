@@ -1,0 +1,1269 @@
+Text size: 57756 characters:
+Next to the Sons of Horus, the Word Bearers were
+active in many of the first pivotal battles of the Horus
+Heresy. The scale of their betrayal of the Loyalist forces
+at Isstvan V and Calth would reverberate across the
+years and set a high water mark for the treachery of the
+Warmaster. In Ultramar, the Word Bearers first laid waste
+to Calth and then to dozens of other planets in the Five
+Hundred Worlds in vengeance for an unforgotten slight:
+Monarchia. Once a beautiful city-shrine raised in praise
+of the Emperor, the Ultramarines, at the Emperor�s own
+command, levelled Monarchia in an act of censure for
+Lorgar�s religious zeal, which was itself contrary to the
+strict tenets of the Imperial Truth.
+Alongside their allied Traitor Imperial Army formations
+and Titan Legions, the perfidious XVIIth ravaged Ultramar.
+While their enemies fought for strategic and tactical
+advantage, the Word Bearers revealed their true nature,
+striking at targets of little military significance but
+of high ritual and symbolic value, spreading wanton
+terror and destruction. This was a calculated act to
+stir the Immaterium, and gave rise to the otherworldly
+forces the Word Bearers consorted with, bringing forth
+the Ruinstorm.
+The Priests and Diabolists of the Word Bearers would
+remain at Horus� side throughout the galactic civil war.
+Even when their Primarch fell from the Warmaster�s
+favour they would be there to whisper in Horus� ear,
+as architects of his damnation. The Word Bearers
+were a curse upon the galaxy in the Age of Darkness,
+spreading across the stars seeking ritual and portent or
+else unleashing the Warp as part of their pact with dark
+gods. Few loyal Imperial Heralds existed to oppose their
+Primarch, for in seeking his �Primordial Truth� Lorgar had
+long since purged his Legion of those who still worshipped
+the Emperor. The first heretics of the Word Bearers would
+be instrumental to the Traitor cause throughout the
+Horus Heresy, and would be counted among the Legions
+to assault the Throneworld.
+LEGIONES ASTARTES (WORD BEARERS)
+All models with this special rule are subject to the following provisions:
+TRUE BELIEVERS
+Amodel with this special rule may never have its Leadership Characteristic modified below a value of 6. Furthermore,
+if one or more models with this special rule are part of a combat that results in a draw, then a side that includes one or
+more models at the end of the Fight sub-phase with this special rule is counted as having won the combat by 1 point. If
+both sides include models with this special rule then the combat remains a draw.
+THE ARMS OF COLCHIS
+Models with this special rule gain
+access to unique Wargear options
+(see The Armoury of the Word
+Bearers on page 306).
+PRIESTS OF FORGOTTEN GODS
+Any Legion Praetor, Legion
+Cataphractii Praetor or Legion
+Tartaros Praetor with this special
+rule may select the Burning Lore
+upgrade, and any models with both
+the Legiones Astartes (Word Bearers)
+and the Legiones Consularis special
+rules gain access to the Diabolist
+upgrade � see The Armoury of the
+Word Bearers for details.
+DISCIPLES OF LORGAR
+AWarlord with this special rule
+may select a Warlord Trait from the
+Word Bearers Warlord Trait list.
+XVIITH LEGIONES ASTARTES
+WORD BEARERS
+WORD BEARERS ADVANCED REACTION
+This Advanced Reaction is available only to units composed entirely of models with the Legiones Astartes (Word
+Bearers) special rule. Unlike Core Reactions, Advanced Reactions are activated in unique and specific circumstances,
+as noted in their descriptions, and can often have game changing effects. Advanced Reactions use up points of a
+Reactive player�s Reaction Allotment as normal and obey all other restrictions placed upon Reactions, unless it is
+specifically noted otherwise in their description.
+Glorious Martyrdom � This Advanced Reaction may be made once per battle during the opposing player�s Shooting
+phase when any enemy unit declares a Shooting Attack targeting a friendly unit under the Reactive player�s control
+with the Legiones Astartes (Word Bearers) special rule. Once this Reaction has been declared, a single model in the
+Reacting unit with the Legiones Astartes (Word Bearers) special rule is selected by the Reacting unit�s controlling
+player � that model is removed as a casualty immediately without any ToHit or ToWound rolls being made by
+the attacking unit and with no Armour Saves or Damage Mitigation rolls made by the Reactive player. This ends
+the Shooting Attack, with no further rolls or Tests being made � if any of the weapons in the attacking unit would
+normally inflict further Hits after causing an unsaved Wound (such as weapons with the Deflagrate special rule) or
+other effects due to inflicting Hits or Unsaved Wounds (such as weapons with the Blind or Concussive (X) special
+rules) then these additional Hits or effects are ignored and have no effect. Any attacks made with weapons with
+the Ordnance or Destroyer types or the Blast or Template special rules ignore the effect of this Reaction and are
+resolved as normal.
+WORD BEARERS WARLORD TRAITS
+AWarlord with the Legiones Astartes (Word Bearers) special rule may select a Warlord Trait from among those listed
+below instead of selecting one of the Core Warlord Traits.
+Enslaved by Darkness (Traitor only)
+Among those that accepted the favour of Chaos into their
+flesh, there were those who conquered the corruption and
+became more than human and those that did not. This
+warrior is among the unfortunate majority that found
+themselves subsumed and overcome by the other � the
+Daemon. Now a fleshly puppet controlled by the vicious
+intelligence from the realm of the ?ther, the warrior continues
+in service to the Word Bearers as a servant of Erebus and a
+gleeful participant in the destruction of the Imperium.
+This Warlord Trait may only be selected by a model with
+the Traitor Allegiance and the Corrupted Unit Sub-type.
+A Warlord with this Trait modifies his Strength and
+Toughness by a value determined by the current Game
+Turn: +1 on Game Turns 1, 2 & 3 , no modifier on turns
+4 & 5, and -1 on Game Turns 6+. When targeted by any
+weapon or special rule that targets the Daemon Unit
+Type, this Warlord is counted as though it had that Unit
+Type. In addition, an army whose Warlord has this Trait
+may make an additional Reaction during the opposing
+player�s Movement phase as long as the Warlord has not
+been removed as a casualty.
+Unswerving Devotion
+The Word Bearers had always been renowned for one trait
+above all others, their devotion to those that led them � first
+to the Emperor, then to Lorgar and finally to darker, less
+benevolent masters. On the field of battle their leaders evoked
+a loyalty far stronger than that found among the other
+Legions, and this warrior is no exception � for where he leads
+his warriors follow without hesitation, regardless of the price
+their loyalty will demand from them.
+Any units that include at least one model with the
+Legiones Astartes (Word Bearers) special rule and have
+at least one model within 6" of a Warlord with this Trait
+(including the Warlord himself and any unit he has joined)
+automatically pass the first failed Morale check or Pinning
+test they are called upon to make each turn. In addition,
+an army whose Warlord has this Trait may make an
+additional Reaction during the opposing player�s Shooting
+phase as long as the Warlord has not been removed as
+a casualty.
+Iconoclast
+Once, the Word Bearers were devoted to the destruction of
+the symbols, marks and leaders of other creeds and religions,
+the literal destruction of fear and superstition. This duty had
+once been at the heart of the Emperor�s Great Crusade, but
+over time fell out of favour with Lorgar and the new leaders
+of the Legion. Yet, some of the Word Bearers still remember
+the old days of the Legion and continue the traditions of the
+Iconoclast, whether for the simple joy of destruction or the
+hope of redemption for their Legion.
+AWarlord with this Trait, and any unit he has joined,
+gain a bonus of +1 Attack when locked in combat with
+an enemy unit that includes at least one model with the
+Independent Character special rule, a Legion vexilla or
+a Legion standard. When making a Shooting Attack or
+Melee Attack targeting a Fortification, Building or other
+Terrain piece with a Toughness Characteristic, they gain
+a bonus of +2 to their Strength or the Strength of any
+weapons used. In addition, an army whose Warlord has
+this Trait may make an additional Reaction during the
+opposing player�s Assault phase as long as the Warlord has
+not been removed as a casualty.
+WORD BEARERS RITES OF WAR
+A Detachment which has the Legiones Astartes (Word Bearers) Faction may make use of the following Rites of War as
+long as it includes at least one model with the Master of the Legion special rule:
+RITE OF WAR: THE DARK BRETHREN
+Before the canker of corruption took root within the Word
+Bearers Legion, it was renowned for the cohesion and selfless
+sacrifice with which it fought in the Emperor�s name. After
+it came to the worship of older and more nightmarish gods,
+parts of the Legion took to enacting horrific rites on the eve
+of battle to curry favour from the Warp. Such warbands soon
+became shadowed with the foulest and most unnatural evil,
+often paying with the blood and souls of their own brethren to
+appease their new masters.
+Effects
+� At the start of the battle, after both sides have deployed
+their entire army, excepting only those units deploying
+by means of the Infiltrate special rule, but before the
+start of the first turn, one unit in the enemy army that
+has been deployed onto the battlefieldmust be selected
+as the Sacrifice by the player of the Detachment using
+this Rite ofWar. If no enemy units are deployed on the
+battlefield at that point, the controlling player of the
+Detachment using this Rite ofWarmust select an enemy
+unit from Reserves or otherwise off the battlefield as the
+Sacrifice. If all models in the Sacrifice unit, including
+any models that are assigned or have joined the unit, are
+destroyed or otherwise removed as casualties then the
+player controlling this Detachment gains one Favour of
+the Dark Gods and another Sacrifice unit is selected from
+among those enemy units deployed on the battlefield
+at the end of that turn by the player of the Detachment
+using this Rite ofWar. If no enemy units are deployed on
+the battlefield at that point then the player that controls
+the Detachment using this Rite ofWarmust select one
+enemy unit that is in Reserves to be the Sacrifice.
+� The controlling player of the Detachment using this
+Rite of War must assign each point of Favour of the
+Dark Gods to one of the units under their control as
+soon as it is earned. For each point of Favour of the
+Dark Gods assigned to a unit, its Strength, Movement
+and Weapon Skill are increased by +1. A unit may have
+no more than 3 points of Favour of the Dark Gods
+assigned to it (so a unit with 2 points of Favour of the
+Dark Gods would increase the Strength, Movement and
+Weapon Skill of the chosen unit by +2).
+Limitations
+� Any one unit from theDetachment using this Rite ofWar
+must inflict at least one unsavedWound orHull Point of
+damage on the Sacrifice unit in each of their turns or one
+of the units in the Detachment using this Rite ofWar,
+selected at random, suffers Perils of theWarp.
+� An army that includes a Detachment using this Rite of
+War must have the Traitor Allegiance.
+RITE OF WAR: LAST OF THE SERRATED SUN
+The Serrated Sun Chapter of the Legiones Astartes Word
+Bearers were the first sons of Lorgar to walk the Path of the
+Ruinous Powers, and most of its Legionaries fell in battle
+at the hands of the betrayed Raven Guard at the Isstvan V
+Dropsite Massacre. Later on, the chapter�s legacy would be
+passed on to the Vakrah Jal, but for a time the survivors of
+the Serrated Sun formed a vengeful, dedicated and utterly
+damned elite within the XVIlth Legion and maintained
+the specialised drop assault doctrines in which it had once
+been unequalled.
+Effects
+� Gal Vorbak Squads may be taken as Troops choices in a
+Detachment using this Rite of War.
+� All Gal Vorbak Squads in a Detachment using this Rite
+of War may select Legion Dreadclaw Drop Pods as a
+Dedicated Transport.
+� Any unit composed entirely of models with the Infantry
+Unit Type and with access to a Legion Rhino Transport
+as a Dedicated Transport that is part of a Detachment
+using this Rite of War may instead select a Legion Drop
+Pod as a Dedicated Transport.
+Limitations
+� A Detachment using this Rite of War may not include
+any units with a Movement Characteristic of 0 (unless
+that model also has the Orbital Assault Vehicle special
+rule), or any units with the Artillery Unit Sub-type.
+� An army whose Primary Detachment is using this Rite
+of War may not take an Allied Detachment.
+� This Rite of War may not be used by an
+Allied Detachment.
+� An army that includes a Detachment using this Rite of
+War must have the Traitor Allegiance.
+THE ARMOURY OF THEWORD BEARERS
+The following comprises a list of new options and Wargear available only to Detachments with the Legiones Astartes
+(Word Bearers) Faction and exemplifies the nature of that Legion.
+BURNING LORE
+Many of the Word Bearers� finest commanders gave themselves willingly to the corruption of the Warp. They utterly forswore
+their oaths and pledged themselves to new masters in exchange for a dark and terrible power.
+Any Legion Praetor, Legion Cataphractii Praetor or Legion Tartaros Praetor with the Legiones Astartes (Word Bearers)
+special rule may select the Burning Lore upgrade for +25 points. A model with the Burning Lore upgrade gains the
+Corrupted and Psyker Unit Sub-types as well as the Diabolism Discipline (see the Diabolist entry).
+Dark Channelling
+While not all of the rank and file of the Legion were fully aware of the truth behind Lorgar�s new teachings, the vast majority
+accepted the new rites they were taught and followed the precepts of this new doctrine without question.
+Any unit with the Traitor Allegiance, and the Infantry or Dreadnought Unit Type as well as the Legiones Astartes (Word
+Bearers) special rule may be upgraded with Dark Channelling for +25 points per unit. All models in a unit with this
+upgrade gain the Corrupted Unit Sub-type.
+TaintedWeapon
+Once proud weapons and relics of the Great Crusade polluted by the accursed practices of the fallen Word Bearers, who took a
+perverse pride in bearing the tainted relics of their former allegiance into battle against those of their kin who remained loyal.
+Any model with both the Character Sub-type and the Legiones Astartes (Word Bearers) special rule may exchange a
+power weapon for a Tainted blade, Tainted axe or Tainted maul for +10 points each:
+Weapon Range Str AP Type
+Tainted blade - User 3 Melee, Rending (6+), Murderous Strike (6+)
+Tainted axe - +1 2 Melee, Unwieldy, Murderous Strike (6+)
+Tainted maul - +2 3 Melee, Murderous Strike (6+)
+Tainted claw - 9 2 Melee, Brutal (2), Murderous Strike (5+)
+Tainted talons - User 3 Melee, Rending (6+), Murderous Strike (6+)
+WarpfireWeapons
+The Word Bearers applied their blasphemous theories not only to their creed and bodies, but also to their weapons. The workings
+of the so-called �warpfire� weapons defy all conventional wisdom, indeed they should not function at all. Yet, in battle these
+weapons emit a searing burst of ?theric fire with a scream that can drive warriors to panic and dismay.
+Any model with the Legiones Astartes (Word Bearers) special rule may exchange a plasma pistol for a Warpfire pistol for
++5 points per model; a plasma gun or plasma blaster for a Warpfire blaster for +5 points per model; or a plasma cannon or
+Gravis plasma cannon for a Warpfire cannon for +5 points per model.
+All weapons listed here are counted as �Plasma� weapons for those rules that affect such weapons.
+Weapon Range Str AP Type
+Warpfire pistol 12" 6 4 Pistol 1, Breaching (4+), Pinning
+Warpfire blaster 24" 6 4 Assault 2, Breaching (4+), Pinning
+Warpfire cannon 36" 6 4 Heavy 1, Blast (3"), Breaching (4+), Pinning
+Boltspitters
+As much twisted organic monstrosities as they are technological artefacts, these weapons vomit forth a torrent of bolt shells
+propelled by a mechanism that tech-priests cannot identify.
+All weapons listed here are counted as �Bolt� weapons for those rules that affect such weapons.
+Weapon Range Str AP Type
+Boltspitter 24" 4 5 Rapid Fire
+Greater boltspitter 48" 5 4 Heavy 6, Twin-linked
+The Corrupted Unit Sub-type
+Though by the end of the Horus Heresy many of its participants would have felt the corrupting touch of Chaos, the Word
+Bearers would be the first to accept it and the first to bear its mark into battle. At first this was a subtle thing, affecting the
+temperament of the Legion�s warriors, but soon it had become a terrible and irreversible transformation. Some among the Word
+Bearers became something other than their brothers, no longer enhanced humans but a terrible fusion of man and Daemon.
+Models with the Corrupted Unit Sub-type are subject to the following rules and restrictions:
+� All models with the Corrupted Unit Sub-type gain the Fear (1) special rule.
+� Any Hits inflicted on a model with the Corrupted Unit Sub-type by a weapon with the Force or Psychic Focus special
+rules gain the Instant Death special rule.
+� Any unit composed entirely of models with the Corrupted Unit Sub-type is immune to the effects of the Fear (X)
+special rule, automatically passes Regroup tests and cannot choose to fail a Morale check due to the Our Weapons Are
+Useless special rule. When a unit composed entirely of models with the Corrupted Unit Sub-type fails a Morale check
+it does not Fall Back as per the standard rules, but instead suffers D3 automatic Wounds with no saves or Damage
+Mitigation rolls of any kind allowed.
+� No model that does not also have the Corrupted Unit Sub-type or the Daemon Unit Type may join a unit that includes
+one or more models with the Corrupted Unit Sub-type.
+�Courage, honour, reason.
+All these maladies of the
+soul are as nothing before
+the limitless power the
+Primordial Annihilator
+can bestow upon those
+willing to embrace the
+terrible truth lurking
+beyond the veil of reality.�
+The Crimson Apostle,
+meditations on teachings
+from the Book of Lorgar
+DIABOLIST
+A Legion Centurion, Legion Cataphractii Centurion or Legion Tartaros Centurion
+with the Legiones Astartes (Word Bearers) special rule may be upgraded to
+a Diabolist:
+DIABOLIST .....................................................+25 POINTS
+When the Word Bearers turned from the Imperial Truth and began to explore the powers
+of the Warp, unfettered by sanity or reason, they took the first step on a dark path. By
+the outbreak of the Horus Heresy, many among their number had gained a power that
+allowed them to unleash the full terror of the Warp upon their foes.
+Special Rules
+A Diabolist gains the Corrupted and Psyker Unit Sub-type and gains the
+Diabolism Discipline.
+Wargear
+� A Diabolist may exchange a power weapon for a force weapon at no additional
+points cost.
+Psychic Discipline: Diabolism
+A Psyker with this Discipline gains the listed Powers, Weapon and other special rules, as well as the Aetheric
+Lightning Psychic Weapon (see page 322 of theHorus Heresy: Age of Darkness rulebook).
+A Dark and Terrible Power (Psychic Power)
+At the beginning of the Horus Heresy, the Word Bearers were as children exulting in a new plaything, wielding the power of
+the Warp with abandon and little understanding of the true cost it would demand of them.
+When a Charge is declared for a model with this power, or for a unit that includes a model with this power, the
+controlling player may choose to make a Psychic check for the model before any dice are rolled to determine
+the Charge Distance of that Charge. If the Psychic check is successful then the model with this power gains the
+Hammer of Wrath (3) special rule and increases both their Strength and Toughness Characteristics by +1 for the
+duration of that Assault phase. If the Check is failed then the model suffers Perils of the Warp, and once that has
+been resolved gains +1 to both its Strength and Toughness Characteristics until the start of the controlling player�s
+next turn.
+Hellfire (Psychic Weapon)
+The Diabolist has no restraint when it comes to unleashing the raw power of the Warp upon the foe; such attacks unleash
+terrible destruction, melting armour and spreading through the ranks of the foe almost with a mind of its own.
+Weapon Range Str AP Type
+Hellfire Template 7 4 Assault 1, Rending (6+), Deflagrate, Psychic Focus
+Psychic Focus: Before making any ToHit rolls with this weapon, the Psyker must make a Psychic check. If the
+Check is passed then the Psyker may attack as normal using the profile shown for this weapon. If the Check is
+failed then the Psyker suffers Perils of the Warp, and if the model is not removed as a casualty then it may attack as
+normal but may not use this weapon.
+Lorgar
+PRIMARCH
+Lorgar Aurelian, the Golden
+Son, who alone amongst
+his brothers wielded the raw
+power of devotion as his
+preferred weapon, was the
+lord of the Word Bearers
+Legion. He swayed worlds
+with his powerful oratory
+and the sheer force of his
+charisma, leading them
+to the veneration of the
+Emperor, who he saw as the
+divine saviour of Mankind.
+At the head of his Word
+Bearers, Lorgar conquered,
+not simply through
+stratagem, overmatching
+power or simple brute
+violence, but by the subtle
+craft of exaltation, by
+inspiring his sons to feats
+of arms in the name of the
+Imperial Truth and swaying
+whole planetary populations
+through his statecraft and
+vision. His Legion did not
+simply batter a world into
+submission, but applied force
+of arms only as needed to
+raise them up and render
+them to freedom. But in
+his literal interpretation of
+the meaning of the Great
+Crusade, he and his Legion
+strayed from the path that
+had been set out for them.
+For his failings, Lorgar
+received only censure from
+his siblings and father. With
+his beliefs shattered, anger
+and resentment set Lorgar to
+secretly accept new, darker
+truths. Both betrayer and
+betrayed, it was Lorgar and
+his Legion who would set the
+stage for the nightmare of
+the Horus Heresy, seeking to
+spread his new creed across
+the galaxy.
+LORGAR ..........................................................415 POINTS
+Master of theWord Bearers, Aurelian, The Golden, The Voice of Truth
+M WS BS S T W I A Ld Sv
+Lorgar 8 6 6 6 6 6 6 5 10 2+
+Unit Composition
+� 1 Lorgar
+Wargear
+� The Armour of the Word
+� Illuminarum
+� Devotion
+� Frag grenades
+Unit Type
+� Primarch (Psyker, Unique)
+Special Rules
+� Legiones Astartes (Word Bearers)
+� Master of the Legion
+� It Will Not Die (4+)
+� Crusader
+� The Fortress of the Word
+� The Power of the Word
+� Traitor
+� Warlord: Sire of the Word Bearers
+Options
+� Lorgar may take the Lorgar Transfigured special rule..................................+25 points
+Warlord: Sire of theWord Bearers
+Lorgar, though mightier than any mortal combatant, was often seen as the least
+martial of his brethren. More of a statesman than a swordsman, Lorgar was a master
+beyond compare with rhetoric and oratory, and wielded these tools with a deft touch.
+While he could not stand in a duel against any of his brothers, there was none he
+could not stir with his words.
+If chosen as the army�s Warlord, Lorgar automatically has the Sire of the Word
+Bearers Warlord Trait and may not select any other Warlord Trait.
+Sire of the Word Bearers � All units composed entirely of models which have
+the Legiones Astartes (Word Bearers) special rule and which can draw line of
+sight to Lorgar add +1 to the result of Charge Distance rolls made for them, and
+may use Lorgar�s Leadership in all Leadership tests, Morale checks and Pinning
+tests made for them. In addition, an army with Lorgar as its Warlord gains an
+extra Reaction in the opposing player�s Assault phase, as long as Lorgar has not
+been removed as a casualty.
+The Fortress of theWord
+Though less skilled with weapons than his brethren, Lorgar
+had long worked to flex other muscles and bring other
+weapons to bear on the battlefield. Among his brothers
+he was one of the few to master the power of the ?thereal
+to any degree, and though his skill was dwarfed by that
+of Magnus he could still work feats that surpassed most
+mortal scholars.
+Lorgar gains the Psychic Disciplines Thaumaturgy and
+Divination from the Core Psychic Disciplines list found
+in theHorus Heresy: Age of Darkness rulebook (see page
+322) and may not select any other Psychic Discipline.
+The Power of theWord
+Lorgar, ever the least physically imposing of the Primarchs,
+relied on his skills as an orator and statesman more than
+his skill as a strategist or warrior. When forced to take to
+the front lines, he allowed his warriors and bodyguard to see
+to his safety while he focussed on the morale and fervour of
+his warriors.
+Any Legion Command Squad, Legion Cataphractii
+Command Squad or Legion Tartaros Command Squad
+selected as a Retinue Squad with Lorgar as its Leader
+gains the Fearless and Feel No Pain (4+) special rules. In
+addition, once per battle, one friendly unit composed
+entirely of models with the Infantry or Cavalry Unit
+Type with at least one model within 18" of Lorgar (but
+not a unit that includes Lorgar himself) may be selected
+at the start of any Game Turn. The chosen unit gains
+the Fearless and Feel No Pain (4+) special rules for the
+duration of that Game Turn.
+The Armour of theWord
+Lorgar�s battle plate is a customised suit of artificer armour
+based upon the Maximus pattern, incorporating a defensive
+field generator and graven with ancient Colchisian sigils of
+protection and Lorgar�s own words of anathema.
+The Armour of the Word provides a 2+ Armour Save and
+a 4+ Invulnerable Save. This Invulnerable Save increases
+to a 3+ against any Wound inflicted by a weapon with
+the Force or Psychic Focus special rules and Wounds
+inflicted by Perils of the Warp.
+Devotion
+An archaic weapon whose origin lies in the lost Dark Age
+of Technology, the pistol known to Lorgar as Devotion
+did not fire any projectile or beam, but instead warped the
+local gravitic field. The device enabled Lorgar to vastly
+intensify local gravity and crush any foolish enough to defy
+the Primarch.
+The weapon listed here is counted as a �Graviton�
+weapon for those rules that affect such weapons.
+Weapon Range Str AP Type
+Devotion 12" 8 2 Pistol 1,
+Concussive (2),
+Graviton Pulse,
+Haywire,
+Master-crafted
+Illuminarum
+This ornate sceptre-maul was fashioned for Lorgar by the
+master weaponsmith Ferrus Manus in a rare display of filial
+support. Perfectly balanced for Lorgar�s strength and size,
+it is a formidable weapon and apocryphally seen as the
+pattern on which the Chaplains� crozius was later based.
+The weapon listed here is counted as a �Power� weapon
+for those rules that affect such weapons.
+Weapon Range Str AP Type
+Illuminarum - +2 2 Melee,
+Master-crafted,
+Armourbane
+(Melee), Brutal (2)
+Lorgar Transfigured
+When Lorgar came to embrace what he saw as the
+Primordial Truth of Chaos, he used it and its sorcerous lore
+to finally unlock his full psychic potential.
+If Lorgar is upgraded with this special rule, he
+gains the Corrupted Unit Sub-type and replaces the
+Thaumaturgy and Divination Psychic Disciplines with
+the Anathemata and Diabolism Psychic Discipline (see
+pages 106 and 309). In addition, an army that includes
+Lorgar Transfiguredmay fill any non-Compulsory slots
+in its Force Organisation chart with units from the
+Ruinstorm Daemon army list � these choices are paid
+for in points and occupy slots on the Force Organisation
+chart as normal, but must begin the battle in Reserve
+and may only enter play by means of the Breach the Veil
+Psychic Power.
+Gal Vorbak Squad
+ELITES
+The Gal Vorbak is built
+upon the remnants of the
+Serrated Sun Chapter of
+the Word Bearers Legion,
+the conquerors of the
+primitive world of Cadia
+who looked into the depths
+of the Eye of Terror itself
+and in doing so were
+changed for all time.
+Their psyches infiltrated
+by creatures from the
+darkness of the ?ther, the
+survivors are named the
+Gal Vorbak, or �Blessed
+Sons� in the language of
+Colchis, and are possessed
+of strengths and abilities
+far above those of other
+Legiones Astartes. It is
+said that each of the Gal
+Vorbak was host to some
+form of warp entity, itself
+subservient to the greater
+scheme plotted between
+Warmaster Horus and the
+nightmare powers beyond.
+In battle, this being comes
+to dominate the mind and
+body of the warrior. His
+already mighty form swells
+as hands turn into rending
+talons and jaws into
+slavering, fang-filled maws
+twisted beyond reason and
+reality. At Isstvan V, the
+Word Bearers� pact with
+the horrors beyond was
+sealed in a great ritual of
+carnage and betrayal.
+GAL VORBAK SQUAD ......................................275 POINTS
+M WS BS S T W I A Ld Sv
+Dark Brethren 8 5 4 5 5 3 5 3 9 3+
+Unit Composition
+� 5 Dark Brethren
+Wargear
+� Boltspitter
+� Tainted talons
+� Frag grenades
+� Krak grenades
+� Power armour
+Unit Type
+� Dark Brethren: Infantry (Corrupted)
+Special Rules
+� Legiones Astartes (Word Bearers)
+� Relentless
+� Chosen Warriors
+� Rage (2)
+� Feel No Pain (5+)
+� Bulky (2)
+� Traitor
+Options
+� The Gal Vorbak Squad may include:
+- Up to 5 additional Dark Brethren...............................................+55 points per model
+� For every fivemodels in the unit, one model may exchange their boltspitter for one
+of the following:
+- Flamer .........................................................................................................+5 points each
+-Meltagun...................................................................................................+10 points each
+-Warpfire blaster .......................................................................................+10 points each
+- Tainted talons ..............................................................................................................Free
+� For every fivemodels in the unit, one model may exchange their Tainted talons for
+one of the following:
+- Power weapon..............................................................................................................Free
+- Power fist..................................................................................................+15 points each
+Ashen Circle Squad
+ELITES
+Serving alongside the
+Destroyers of the Word
+Bearers Legion, the Ashen
+Circle was a unique
+formation created for
+a unique purpose: the
+destruction of culture,
+learning and faith. These
+Space Marines were
+iconoclasts, charged
+beyond the battlefield
+with hunting down
+works of false doctrine
+and those who purveyed
+it, consigning both
+to destruction and
+eradicating flame. On the
+battlefield, their task was
+deemed no less important
+by their Legion; seeking out
+those things which gave the
+foe the heart and courage
+to fight: charismatic
+leaders, priests, battle flags
+and champions. These
+they singled out, dragged
+down with the hook-
+blades of their axe-rakes
+and destroyed with brutal
+fervour, often making
+plunging attacks far in
+advance of their own lines
+in order to do so, with no
+thought as to their own
+survival. On world after
+world the Ashen Circle
+tore down libraries and
+churches, parliaments and
+sepulchres; first so that the
+Imperial Truth might be
+set up in their place, but
+later so that far darker
+creeds could take root
+and fester.
+ASHEN CIRCLE SQUAD ..................................125 POINTS
+M WS BS S T W I A Ld Sv
+Incendiary 7 4 4 4 4 1 4 2 8 3+
+Iconoclast 7 4 4 4 4 1 4 3 9 3+
+Unit Composition
+� 4 Incendiaries
+� 1 Iconoclast
+Wargear
+� Akkadic hand flamer
+� Axe-rake
+� Frag grenades
+� Krak grenades
+� Melta bombs
+� Power armour
+� Legion Warhawk jump pack
+Unit Type
+� Incendiaries: Infantry (Heavy)
+� Iconoclast: Infantry (Heavy,
+Character)
+Special Rules
+� Legiones Astartes (Word Bearers)
+� Stubborn
+� Crusader
+� Bitter Duty
+� Scorched Earth
+Options
+� An Ashen Circle Squad may include:
+- Up to 5 additional Incendiaries..................................................+20 points per model
+� The Iconoclast may exchange his Akkadic hand flamer for one of the following:
+- Inferno pistol ....................................................................................................+15 points
+- Plasma pistol .....................................................................................................+10 points
+� The Iconoclast may take one phosphex bomb...............................................+15 points
+� The Iconoclast may exchange his power armour for:
+- Artificer armour................................................................................................+10 points
+Scorched Earth
+When a model with this special rule inflicts hits due to the Hammer of Wrath
+(X) special rule, it inflicts an additional Hit (so, a model with Hammer of Wrath
+(1) would inflict 2 Hits), and all Hits inflicted due to the Hammer of Wrath (X)
+special rule gain a bonus of +1 to their Strength (this is cumulative with any other
+modifiers that may be applied to such Hits) and are counted as �Flame� attacks for
+those rules that modify such attacks.
+Iconoclast Armoury
+The Ashen Circle are masters of a variety of esoteric thermal weaponry, making use of
+both advanced flame weapons and compact melta pistols in battle.
+Range Str AP Type
+Inferno pistol 6" 8 1 Pistol 1, Armourbane
+(Melta)
+Akkadic hand flamer Template 4 4 Assault 1, Torrent (6"),
+Pinning
+Axe-rake
+A heavily reinforced axe-weapon with a grappling barb, this vicious blade is used to
+drag down victims and topple graven idols and false icons for the Word Bearers� pyres.
+Range Str AP Type
+Axe-rake - +1 3 Melee, Shred
+Mhara Gal Dreadnought
+ELITES
+First encountered during
+the Battle of Ithraca
+amidst the catastrophe on
+Calth, the Shadow Crusade
+which ravaged Ultramar
+confirmed the existence of
+this twisted monster and
+its kin, an enemy unlike
+anything the Loyalists
+had faced. In form it was
+undeniably Contemptor
+Dreadnought in origin,
+its fire-blackened armour
+running like molten wax
+as its plates cracked open
+to pour out blood and
+choking black flames. The
+bounds of reality bent
+and buckled around the
+machine-creature, the
+ground itself seeming to
+shudder, flesh blistering
+and metal burning with
+black empyreal fire
+at its passing. Cultic
+writings record it as the
+�Mhara Gal� �a complex
+Colchosian allegorical
+phrase translated as ��that
+which was blessed, but now
+stands beyond the sight of
+the gods� and claims this
+first travesty to have been
+one of the original Gal
+Vorbak dismembered and
+shattered, but clinging to
+life after the apocalyptic
+battle on Isstvan V. These
+writings describe this fallen
+killer as having �failed its
+oath to the Eightfold path�
+and being �punished with
+life beyond death�.
+MHARA GAL DREADNOUGHT .......................240 POINTS
+M WS BS S T W I A Ld Sv
+Mhara Gal Dreadnought 8 6 3 7 7 8 5 3 10 2+
+Unit Composition
+� 1 Mhara Gal Dreadnought
+Wargear
+� Warpfire cannon
+� Tainted claw with in-built boltspitter
+Unit Type
+� Dreadnought (Corrupted)
+Special Rules
+� Legiones Astartes (Word Bearers)
+� It Will Not Die (5+)
+� Rampage (2)
+� Shroud of Dark Fire
+� Accursed
+� Pathfinder
+� Move Through Cover
+� Traitor
+Options
+� A Mhara Gal Dreadnought may replace its Warpfire cannon and/or Tainted claw
+and in-built boltspitter with one of the following:
+- Greater boltspitter.......................................................................................................Free
+- Gravis melta cannon...................................................................................................Free
+- Gravis autocannon......................................................................................................Free
+-Warpfire cannon..........................................................................................................Free
+- Gravis lascannon ..............................................................................................+10 points
+- Tainted claw with in-built boltspitter......................................................................Free
+Shroud of Dark Fire
+The atomantic reactor which once powered the Mhara Gal has since twisted and warped to become a thing of ravaging
+darkness, burning with coal-black fire from the depths of the Empyrean. Such is the baleful power of this force, it shrouds
+the Mhara Gal Dreadnought in a guttering conflagration that leaks from the rends in its armour and belches from the
+ventilation stacks on its back, waxing as the nightmarish war machine kills, and waning to shadowed embers when it is at
+rest. Even the solar heat of plasma fire is muted and consumed on contact with this dark radiance, and flesh withers and
+crumbles to dust.
+Any Hit allocated to a model with this special rule from a Plasma, Flame, Melta or Volkite weapon has its Strength
+reduced by -1. In addition, a model with this special rule gains a 5+ Invulnerable Save and should it suffer an unsaved
+Wound with the Instant Death special rule is not immediately removed as a casualty, but instead loses D3 Wounds
+instead of one for each unsaved Wound with the Instant Death special rule inflicted on it. If a model with this special
+rule loses its last Wound or Hull Point, but before it is removed as a casualty, all models both friendly and enemy
+within D6+6" suffer an automatic Hit at Strength 8 and with an AP of -.
+Accursed
+A baleful vortex of empyreal forces is centred upon the accursed Mhara Gal, like a moving sinkhole on the face of reality
+incarnated into its twisted form, and the echoes of this tormenting force drive even its allies away from it in reeling
+horror. The radiations of fear and horror that the war machine generates are particularly abhorrent to psykers and even
+daemonkind, who must shun this warp abomination lest the black fire at its core consume their soul-stuff.
+All models with the Daemon Unit Type and/or Psyker or Corrupted Sub-type must reduce their Toughness and
+Strength by -1 while they are within 6" of a model with this special rule. Models that also have this special rule are
+immune to its effects.
+Zardu Layak
+HQ
+Zardu Layak�s true name
+is now lost, but it is
+recorded in his Legion�s
+lore that he was once
+an officer of the Ashen
+Circle, a Terran by birth,
+and a devout destroyer
+of all that pertained to
+false superstition and
+errant creed. He oversaw
+the burning of a hundred
+temples and countless
+tomes of lies in the
+Emperor�s service, until
+the Word Bearers� brutal
+censure by the Emperor.
+After their punishment
+on Monarchia, Layak
+was soulsick, and quickly
+a fervent convert to
+Erebus� and Lorgar�s new
+teachings. He took the
+name Zardu Layak, �Eater
+of Wisdom�, but came to
+be known by his Legion as
+the Crimson Apostle for
+his fiery raiment and the
+scalding blood in which he
+daily daubed his armour.
+Suffused in dark powers
+which he used freely to
+destroy minds and bodies,
+Zardu Layak walked his
+bloody path accompanied
+by a pair of bodyguards,
+each unnaturally warped
+and contorted and
+possessed of great strength.
+Wielding the Anakatis
+blades, gifts bestowed
+upon them by Layak and
+weapons of unholy xenos
+influence and malevolent
+power, they cut a swathe
+through their master�s
+foes in a barely controlled
+hunger for slaughter.
+ZARDU LAYAK ................................................300 POINTS
+The Crimson Apostle, The Thrice-Born, The Binder of Souls,
+The Voice of the Unspeaking
+M WS BS S T W I A Ld Sv
+Zardu Layak 7 5 5 4 4 4 5 4 10 2+
+Blade Slaves 7 5 4 6 5 3 5 3 8 3+
+Unit Composition
+� 1 Zardu Layak
+� 2 Anakatis Kul Blade Slaves
+Wargear (Zardu Layak)
+� Bolt pistol
+� The Azurda Char�is
+� Artificer armour
+� Iron halo
+� The Panoply of Flame
+� Frag grenades
+� Krak grenades
+Wargear (Blade Slaves)
+� Plasma pistol
+� Anakatis blade
+� Power armour
+� Frag grenades
+� Krak grenades
+Unit Type
+� Zardu Layak: Infantry (Corrupted,
+Psyker, Character, Unique)
+� Blade Slaves: Infantry (Corrupted)
+Special Rules (Zardu Layak)
+� Legiones Astartes (Word Bearers)
+� Master of the Legion
+� Independent Character
+� Relentless
+� Fearless
+� Hatred (Loyalists)
+� Binder of Souls
+� Traitor
+� Warlord: The Eater of Wisdom
+Special Rules (Blade Slaves)
+� Legiones Astartes (Word Bearers)
+� Rage (2)
+� Bulky (2)
+� Feel No Pain (5+)
+� Chosen Warriors
+� Relentless
+Warlord: The Eater of Wisdom
+If chosen as the army�s Warlord, Zardu Layak automatically has The Eater of
+Wisdom as his Warlord Trait and may not select any other.
+The Eater of Wisdom � If Zardu Layak is the army�s Warlord, then the
+controlling player may choose up to three friendly units composed entirely of
+models with the Corrupted Unit Sub-type from the same army as Zardu Layak
+at the beginning of the battle, before any models are deployed. All models in
+each of the selected units gains a bonus of +1 to its Strength and Movement
+Characteristics, but must take a Leadership test at the end of each of the
+controlling player�s turns. If that Test is failed the unit suffers Perils of the
+Warp, while if it is not failed there is no effect that turn. In addition, an army
+with Zardu Layak as its Warlord may make an additional Reaction during the
+opposing player�s Assault phase as long as Zardu Layak has not been removed as
+a casualty.
+The Azurda Char�is
+It is unknown how the Crimson Apostle acquired this potent artefact, or by what hidden lore he has modified it to
+his usage.
+The weapon listed here is counted as a �Force� weapon for those rules that affect such weapons.
+Weapon Range Str AP Type
+Azurda Char�is - User 2 Melee, Unwieldy, Force
+Anakatis Blade
+These occult blades reek of unholy, warp-spawned power and their forging may well have pre-dated human life. Dark and
+coiling entities have been trapped within the blades, entities that whisper promises of untold might and power, but such
+promises are only bought at a terrifying price to both body and soul.
+The weapon listed here is counted as a �Power� and �Force� weapon for those rules that affect such weapons.
+Weapon Range Str AP Type
+Anakatis blade - User 3 Melee, Murderous Strike (5+), Brutal (2)
+The Panoply of Flame
+The Panoply of Flame serves both as a war banner and as a weapon to turn on Zardu Layak�s enemies, his warp gifts
+allowing him to mould the unclean flame the Panoply now produces by will alone.
+All models with the Legiones Astartes (Word Bearers) special rule within 12" of the Panoply of Flame add a +1
+modifier to their score when determining victory in assaults and +1 to their Sweeping Advance rolls.
+Binder of Souls
+Zardu Layak gains the Psychic Discipline Soul Binding and may not select any other Psychic Discipline:
+Psychic Discipline: Soul Binding
+A Psyker with this Discipline gains all the listed Powers, Weapon and other special rules, as well as the Aetheric
+Lightning Psychic Weapon (see page 322 of theHorus Heresy: Age of Darkness rulebook).
+Soul Binding (Psychic Power)
+Zardu Layak has long since mastered the art of shackling the will of another, binding it to his own will and turning enemies
+into slaves.
+When an enemy unit declares it will make a Reaction to Zardu Layak or any unit he has joined, the controlling
+player may choose to have Zardu Layak immediately suffer Perils of the Warp, resolving all Wounds inflicted before
+any part of the Reaction is resolved. If Zardu Layak is not removed as a Casualty then that Reaction is cancelled
+(the Reactive player does not expend a point of their Reaction Allotment, and if the Reaction could only be used
+a limited number of times, it is not considered to have been used in this instance) and the unit that declared the
+Reaction gains no benefit and takes no action.
+Telepathic Chains (Psychic Weapon)
+Range Str AP Type
+Telepathic Chains 36" 2 - Assault 4, Pinning, Shell Shock (3), Psychic Focus
+Psychic Focus: Before making any ToHit rolls with this weapon, the Psyker must make a Psychic check. If the
+Check is passed then the Psyker may attack as normal using the profile shown for this weapon. If the Check is failed
+then the Psyker suffers Perils of the Warp, and if the model is not removed as a casualty then it may attack as normal
+but may not use this weapon.
+Argel Tal
+HQ
+Argel Tal was among
+the first to gaze into the
+madness of the Eye of
+Terror and in doing so
+was forever damned when
+that dark abyss gazed back
+into him. Held as a prime
+example of his Primarch�s
+intentions for the future
+of humanity, a symbiotic
+fusion of human soul and
+daemonic power, he and
+his brothers in the Gal
+Vorbak would go on to
+play an instrumental role
+in the galactic tragedy
+that befell humanity. His
+counsel helped Lorgar
+solidify his understanding
+of the effects the powers of
+the Empyrean could have
+on the physical form of
+a Legionary, and he was
+equally venerated and
+envied among the ranks
+of the Word Bearers as
+one who stood in glorious
+favour of their malicious
+newfound gods. One of the
+first in the XVIIth Legion
+to don the crimson colour
+of betrayal, Argel Tal was
+present at multiple pivotal
+events in the Horus Heresy,
+from the black sands of
+Isstvan V and the Dropsite
+Massacre to the far reaches
+of the eastern Segmentum
+and the Shadow Crusade.
+The so-called Crimson
+Lord was a blight upon
+the Imperium who sent
+uncounted Loyalist
+souls screaming into the
+hellspace of the Warp
+with unmatched zeal
+and determination.
+ARGEL TAL.....................................................240 POINTS
+The Crimson Lord, Commander of the Serrated Sun
+M WS BS S T W I A Ld Sv
+Argel Tal 8 6 5 5 5 5 5 4 10 2+
+Unit Composition
+� 1 Argel Tal
+Wargear
+� Two Daemonic talons
+� Umbral Pinions
+� Artificer armour
+� Frag grenades
+� Krak grenades
+Unit Type
+� Infantry (Character, Unique,
+Corrupted)
+Special Rules
+� Legiones Astartes (Word Bearers)
+� Master of the Legion
+� Independent Character
+� Relentless
+� Bulky (3)
+� Feel No Pain (5+)
+� Rage (2)
+� Traitor
+� Warlord: The Crimson Lord
+Warlord: The Crimson Lord
+If chosen as the army�s Warlord, Argel Tal automatically has The Crimson Lord
+as his Warlord Trait and may not select any other.
+The Crimson Lord � If Argel Tal is the army�s Warlord, then both Argel Tal
+and any Gal Vorbak unit he joins gain a 5+ Invulnerable Save and the Line
+Unit Sub-type. In addition, an army with Argel Tal as its Warlord may make an
+additional Reaction during the opposing player�s Assault phase as long as Argel
+Tal has not been removed as a casualty.
+Daemonic Talons
+Once Argel Tal carried the weapons of a Space Marine proudly into battle, now he slashes at the foe with twisted
+protrusions of his own armour fused with unnatural bone and iron-hard flesh.
+Weapon Range Str AP Type
+Daemonic talons - User 3 Melee, Murderous Strike (5+), Rending (5+)
+Umbral Pinions
+Argel Tal takes to the battlefield borne by a pair of wings of twisted ceramite and fused bone, erupting from his armour like
+some obscene growth. Haloed by these wings of darkness, the Crimson Lord descends into the midst of his foes to tear them
+apart in an orgy of destruction.
+At the start of the controlling player�s Movement phase, Argel Tal�s Movement Characteristic may be set to a value
+of 14 for the duration of the controlling player�s turn. This allows Argel Tal to move up to 14", regardless of the
+Movement Characteristic shown on his profile and gain any other benefits of a Movement Characteristic of 14
+(including the bonus to Charge distance). In addition, when moving in this fashion, Argel Tal ignores terrain while
+Moving and Charging, but must take Dangerous Terrain tests as normal when beginning or ending his movement in
+Dangerous Terrain. On turns when this option is in use, Argel Tal may move over both friendly and enemy models
+or units without penalty � but must end his movement at least 1" away from any model from another unit.
+Argel Tal may still Run while using this special rule, if he would normally be able to Run, moving up to 19" and
+ignoring terrain and models from other units while doing so. If Argel Tal Runs while using this special rule, he may
+not make Shooting Attacks or Declare a Charge in the same turn. During a Reaction made in any Phase, a player
+may not choose to use this special rule to gain any bonus to their Movement Characteristic.
+High Chaplain Erebus
+HQ
+Erebus was the First
+Chaplain of the Word
+Bearers Legion and the
+primary instrument of
+his Primarch�s descent
+into treachery. When the
+Emperor chastised Lorgar
+for worshipping him as
+a god, the Primarch was
+stricken and it was Erebus
+who counselled that, if the
+Emperor was not worthy
+of Lorgar�s veneration,
+then there were other,
+older powers that were.
+When the scales fell from
+Lorgar�s eyes and the
+true power of the Warp
+was revealed to him, the
+Primarch would have
+declared his new-found
+revelation to the entire
+galaxy, but it was Erebus
+again who counselled
+caution. The opening
+phase in his scheme
+complete, Erebus set in
+motion a chain of events
+that led to the damnation
+of Horus himself,
+engineering the injury
+that brought him to the
+serpent priests of Davin.
+In these and a thousand
+other blasphemies, Erebus
+is revealed as both the
+master and the puppet,
+the instrument of the
+ruination of all that the
+Emperor fought for and
+the ultimate pawn of the
+powers of the Warp.
+HIGH CHAPLAIN EREBUS ..............................165 POINTS
+The Dark Apostle, Emissary of theWarmaster,
+Child of the Primordial Truth
+M WS BS S T W I A Ld Sv
+High Chaplain Erebus 7 5 5 4 4 3 5 4 10 2+
+Unit Composition
+� 1 High Chaplain Erebus
+Wargear
+� Plasma pistol
+� Crux Malifica
+� Artificer armour
+� Iron halo
+� Frag grenades
+� Krak grenades
+Unit Type
+� Infantry (Character, Psyker,
+Corrupted, Unique)
+Special Rules
+� Legiones Astartes (Word Bearers)
+� Master of the Legion
+� Independent Character
+� Relentless
+� Hatred (Loyalists)
+� Fearless
+� Harbinger of Chaos
+� Traitor
+� Warlord: Shadow Behind the Throne
+Warlord: Shadow Behind the Throne
+If chosen as the army�s Warlord, High Chaplain Erebus automatically has the
+Shadow Behind the Throne as his Warlord Trait and may not select any other.
+Shadow Behind the Throne �When High Chaplain Erebus is the army�s
+Warlord and is part of a unit composed entirely of models with any version
+of the Legiones Astartes (X) special rule, no Wounds may be allocated to him,
+regardless of the attacking model�s rules or effects, as long as there is another
+model in the unit. If High Chaplain Erebus is Engaged in a Challenge then
+this rule does not apply. However, if High Chaplain Erebus� controlling player
+chooses to refuse a Challenge for a unit that includes High Chaplain Erebus
+then the opposing player loses the option to stop one model from participating
+in the combat. In addition, an army whose Warlord is High Chaplain Erebus
+may make an additional Reaction in any one of the opposing player�s Phases,
+chosen by the controlling player at the start of the battle, as long as High
+Chaplain Erebus has not been removed as a casualty.
+CruxMalifica
+This ever-burning staff, decorated with the defaced remnants of Imperial doctrine was Erebus� symbol of authority � aping
+the stave borne by Malcador as the Emperor�s chief adviser and a not so subtle threat aimed at that shadowy figure.
+Weapon Range Str AP Type
+Crux Malifica - +3 2 Melee, Unwieldy
+Harbinger of Chaos
+A Detachment that includes High Chaplain Erebus may select up to three non-Compulsory Elites or HQ choices
+from the Ruinstorm Daemon Army List � these choices are paid for in points and occupy slots on the Force
+Organisation chart as normal, but must begin the battle in Reserve and may only enter play by means of the Breach
+the Veil Psychic Power.
+Psychic Discipline: Harbinger of Chaos
+A Psyker with this Discipline gains the Breach the Veil Psychic Power and Aetheric Lightning Psychic Weapon (see
+the Esoterist entry on page 106).
+HQ
+Scorned by many in his
+Legion as a �half Astartes�,
+Kor Phaeron was Lorgar�s
+surrogate father and served
+as his tutor in the ancient
+ways of Colchis before the
+coming of the Emperor.
+By the time the XVIIth
+Legion was united with its
+Primarch, Kor Phaeron was
+too old to undergo the full
+implantation process, but
+so favoured was he in the
+eyes of his Primarch that
+he received the most potent
+of biological augments
+it was possible to bestow
+upon a man short of
+elevation to the Legiones
+Astartes, and was declared
+First Captain of the Word
+Bearers Legion. Along with
+Erebus, Kor Phaeron has
+the ear of his Primarch
+and, more than any other
+individual, is responsible
+for Lorgar�s nature as
+a seeker after the truth,
+wherever that truth may
+lie and whatever terrible
+secrets it might reveal. Now
+aging and never having
+possessed the sheer potency
+of a full Space Marine, the
+First Captain nevertheless
+exerts great influence upon
+his Primarch and within
+his Legion, his conviction
+and zeal unfettered
+and undiminished.
+KOR PHAERON ...............................................125 POINTS
+First Captain of theWord Bearers, Master of Faith, Priest-king of Colchis
+M WS BS S T W I A Ld Sv
+Kor Phaeron 6 5 4 3 3 4 3 3 10 2+
+Unit Composition
+� 1 Kor Phaeron
+Wargear
+� Patriarch�s Claws
+� Digi-flamer
+� Terminus Consolaris
+Unit Type
+� Infantry (Heavy, Character,
+Corrupted, Unique)
+Special Rules
+� Legiones Astartes (Word Bearers)
+� Master of the Legion
+� Independent Character
+� Relentless
+� Bulky (2)
+� Feel No Pain (5+)
+� It Will Not Die (5+)
+� Jealous Command
+� Traitor
+� Warlord:Dark Oratory
+Warlord: Dark Oratory
+If chosen as the army�s Warlord, Kor Phaeron automatically has Dark Oratory as
+his Warlord Trait and may not select any other.
+Dark Oratory �When Kor Phaeron is the Warlord of the army then the
+controlling player can choose one of the following two options at the beginning
+of each of their own turns:
+� Cruel Invective � All enemy units with at least one model within 12" of Kor
+Phaeron at the start of Kor Phaeron�s controlling player�s turn (before any
+models are moved) must make an immediate Pinning test, and become Pinned
+if the Test is failed.
+� Threatening Entreaties � Kor Phaeron and the unit he has joined gain the
+Fearless special rule until the start of the controlling player�s next turn, but all
+models other than Kor Phaeron in the unit reduce their WS and BS by -1 until
+the start of the controlling player�s next turn.
+In addition, an army with Kor Phaeron as its Warlord may make an additional
+Reaction during the opposing player�s Assault phase as long as Kor Phaeron has
+not been removed as a casualty.
+Jealous Command
+Kor Phaeron was known within the Legion for his unfailing
+arrogance and vindictive sense of pride. He would tolerate
+none above him, save his adopted son and Primarch Lorgar.
+The Primarch was the only man that Kor Phaeron would
+bend the knee to � though many wondered if he did so out
+of respect or so that he could manipulate the Primarch from
+the arm of his throne.
+If Kor Phaeron or Lorgar is not chosen as the Warlord of
+an army that Kor Phaeron is part of, then his Leadership
+is reduced by -1 and he gains the Hatred (Everything)
+special rule. When Kor Phaeron is included in the same
+army as Lorgar, both models gain +1 WS and the Hatred
+(Everything) special rules while part of the same unit.
+The Terminus Consolaris
+Too old for transformation into a full-blooded Space
+Marine when the Emperor found Lorgar on Colchis, the
+Primarch nevertheless assured, through the use of gene-
+craft and anti-agathics, that his foster-father would join
+him on the Great Crusade as his First Captain. Before
+his later transfiguration by Chaos, Kor Phaeron�s aged
+physique was augmented in battle by a custom-designed
+suit of Terminator armour reinforced with additional
+medicae, exoskeletal and life support systems known as
+the Consolaris.
+The Terminus Consolaris grants a 2+ Armour Save, and
+an Invulnerable Save of 3+ in the Shooting phase and 5+
+in the Movement and Assault phases.
+Digi-flamer
+Concealed within Kor Phaeron�s regalia of office is a
+miniaturised flamer weapon.
+This weapon counts as a �Flame� weapon for those rules
+that affect such weapons.
+Weapon Range Str AP Type
+Digi-flamer Template 4 - Pistol 1
+The Patriarch�s Claws
+Crafted to allow Kor Phaeron to fight among the enhanced
+ranks of the Space Marines without becoming outmatched
+and to reflect the twisted cruelty that was his hallmark
+in combat, the Patriarch�s Claws were a matched pair of
+Charnabal fighting claws that did not need the strength
+of a full member of the Legiones Astartes to rend flesh and
+slice through armour.
+Weapon Range Str AP Type
+Patriarch�s Claws* - User 2 Melee, Shred
+*The Patriarch�s Claws are two separate weapons, each with
+the same profile, and as such Kor Phaeron gains a bonus
+Attack when using them.

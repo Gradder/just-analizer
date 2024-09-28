@@ -1,0 +1,13 @@
+{
+  "legionBackground" : {
+    "endsWith" : "LEGIONES ASTARTES"
+  },
+  "legionesAstartes" : {
+    "startsWith" : "LEGIONES ASTARTES ",
+    "endsWith" : " LEGIONES ASTARTES"
+  },
+  "advancedReaction" : {
+    "startsWith" : " ADVANCED REACTION",
+    "endsWith" : " WARLORD TRAITS"
+  }
+}
